@@ -6,7 +6,19 @@
       <list>
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/MavenModule/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringModule/pom.xml" />
+        <option value="$PROJECT_DIR$/WebModule/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM/pom.xml" />
+        <option value="$PROJECT_DIR$/SSMModule/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled1/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/WebModule/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled1/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
